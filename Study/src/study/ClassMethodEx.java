@@ -97,7 +97,7 @@ class BookCafe{
 
 
 
-public class Main {
+public class ClassMethodEx {
 
 	public static void main(String[] args) {
 		
